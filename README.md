@@ -1,4 +1,4 @@
-# CSN150-Documentation-for-ESP32-CAm
+# CSN150-Documentation-for-ESP32-CAM
 Project: ESP32-Camare Live Stream
 ## **Purpose**
 set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
